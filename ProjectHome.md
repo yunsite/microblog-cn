@@ -1,0 +1,3 @@
+Sharetronix 作为一个多媒体微博客平台，具备微博客必备的特性——相互关注、私信、收藏等，同时还具有内建的图片上传和视频分享（支持来自YouTube、 MySpace、MetaCafe、Vimeo和Revver的视频）功能。Sharetronix还拥有一套好友邀请系统，可以方便地通过电子邮件邀请您生活中的朋友，并且可以在自己的帐户中查看谁受邀而来。
+
+Sharetronix还支持类似于TwitterFeed的RSS发帖方式，设定一个RSS源后，Sharetronix会定期检查该RSS源的更新，然后自动发布最新的内容。不过，每个用户只能设置一个RSS源。
